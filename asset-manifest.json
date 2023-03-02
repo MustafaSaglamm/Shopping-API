@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shopping-API/static/css/main.ea22e4e7.css",
+    "main.js": "/Shopping-API/static/js/main.2cafb5d7.js",
+    "static/js/787.6962f9d7.chunk.js": "/Shopping-API/static/js/787.6962f9d7.chunk.js",
+    "static/media/scola1213-removebg-preview.png": "/Shopping-API/static/media/scola1213-removebg-preview.0c88f5c0f23b2984abe1.png",
+    "static/media/hand-drawn-shopping-patt.png": "/Shopping-API/static/media/hand-drawn-shopping-patt.6a86bd393da7a1dbf4e8.png",
+    "static/media/revicons.eot": "/Shopping-API/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Shopping-API/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Shopping-API/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Shopping-API/index.html",
+    "main.ea22e4e7.css.map": "/Shopping-API/static/css/main.ea22e4e7.css.map",
+    "main.2cafb5d7.js.map": "/Shopping-API/static/js/main.2cafb5d7.js.map",
+    "787.6962f9d7.chunk.js.map": "/Shopping-API/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea22e4e7.css",
+    "static/js/main.2cafb5d7.js"
+  ]
+}
